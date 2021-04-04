@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "\\****************************************\\" 
+echo "Today is:";date
+echo "Hello $USER !!!"
+echo "Your current working directory:" $PWD
+echo "Your home directory:" ~
+echo "Please press any key to finish:"; read 
+echo -e "\t\tThank you very much!!" 
+echo "\\****************************************\\"
